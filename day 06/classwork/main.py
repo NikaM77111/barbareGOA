@@ -2,10 +2,10 @@
 Name = 'nika'
 print("name")
 #2
-goa best = 100
+goa = 100
 print("goa best")
 #3
-name - 'mate'
+name = 'mate'
 print ("name")
 #4
 number = 10

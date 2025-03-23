@@ -1,6 +1,6 @@
 #1
 #data types is a monacemta type
-sheesabameba and-da or-an
+#sheesabameba and-da or-an
 
 #2
 x = 10           # Integer
